@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap-3-boilerplate",
+  "authors": [
+    "Julien Vernet <julien@vernet.me>"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.5"
+  }
+}
