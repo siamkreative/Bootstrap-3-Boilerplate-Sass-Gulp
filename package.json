@@ -1,23 +1,26 @@
 {
-  "name": "bootstrap-3-boilerplate",
-  "version": "1.0.0",
-  "description": "",
-  "devDependencies": {
-    "gulp": "*",
-    "gulp-autoprefixer": "*",
-    "gulp-bower": "*",
-    "gulp-notify": "*",
-    "gulp-sass": "*",
-    "gulp-sourcemaps": "*",
-    "gulp-uglifyjs": "*",
-    "browser-sync": "*"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/SiamKreative/Bootstrap-3-Boilerplate-Sass-Gulp.git"
-  },
-  "bugs": {
-    "url": "https://github.com/SiamKreative/Bootstrap-3-Boilerplate-Sass-Gulp/issues"
-  },
-  "homepage": "https://github.com/SiamKreative/Bootstrap-3-Boilerplate-Sass-Gulp"
+   "name":"bootstrap-3-boilerplate",
+   "version":"1.0.0",
+   "description":"",
+   "scripts":{
+      "start":"gulp"
+   },
+   "devDependencies":{
+      "gulp":"*",
+      "gulp-autoprefixer":"*",
+      "gulp-bower":"*",
+      "gulp-notify":"*",
+      "gulp-sass":"*",
+      "gulp-sourcemaps":"*",
+      "gulp-uglifyjs":"*",
+      "browser-sync":"*"
+   },
+   "repository":{
+      "type":"git",
+      "url":"https://github.com/SiamKreative/Bootstrap-3-Boilerplate-Sass-Gulp.git"
+   },
+   "bugs":{
+      "url":"https://github.com/SiamKreative/Bootstrap-3-Boilerplate-Sass-Gulp/issues"
+   },
+   "homepage":"https://github.com/SiamKreative/Bootstrap-3-Boilerplate-Sass-Gulp"
 }
